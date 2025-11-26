@@ -1,0 +1,5 @@
+{
+  "name": "PodFlow",
+  "description": "A visual workflow editor for connecting Data Preparation and Analysis pods with resource allocation and seamless data handover.",
+  "requestFramePermissions": []
+}
